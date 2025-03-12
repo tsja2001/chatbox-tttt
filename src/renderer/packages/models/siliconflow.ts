@@ -110,6 +110,8 @@ export const siliconflowModelConfigs = {
     'deepseek-ai/DeepSeek-Coder-V2-Instruct': { maxTokens: 32768 },
     'deepseek-ai/DeepSeek-V2-Chat': { maxTokens: 32768 },
     'deepseek-ai/deepseek-llm-67b-chat': { maxTokens: 32768 },
+    // 'deepseek-ai/DeepSeek-R1': { maxTokens: 32768 },
+    'Pro/deepseek-ai/DeepSeek-R1': { maxTokens: 32768 },
     'THUDM/glm-4-9b-chat': { maxTokens: 32768 },
     'THUDM/chatglm3-6b': { maxTokens: 32768 },
     '01-ai/Yi-1.5-34B-Chat-16K': { maxTokens: 16384 },
